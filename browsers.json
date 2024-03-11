@@ -16,5 +16,11 @@
         "key_path": "SOFTWARE\\Policies\\Microsoft\\Edge",
         "value_name": "InPrivateModeAvailability",
         "new_value": 1
+    },
+    {
+        "name": "Firefox",
+        "key_path": "SOFTWARE\\Policies\\Mozilla\\Firefox",
+        "value_name": "DisablePrivateBrowsing",
+        "new_value": 1
     }
 ]
