@@ -1,12 +1,14 @@
-{
-    "Chrome": {
+[
+    {
+        "name": "Chrome",
         "key_path": "SOFTWARE\\Policies\\Google\\Chrome",
         "value_name": "IncognitoModeAvailability",
         "new_value": 1
     },
-    "Edge": {
+    {
+        "name": "Edge",
         "key_path": "SOFTWARE\\Policies\\Microsoft\\Edge",
         "value_name": "InPrivateModeAvailability",
         "new_value": 1
     }
-}
+]
