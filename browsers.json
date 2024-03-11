@@ -6,6 +6,12 @@
         "new_value": 1
     },
     {
+        "name": "CocCoc",
+        "key_path": "SOFTWARE\\Policies\\CocCoc",
+        "value_name": "IncognitoModeAvailability",
+        "new_value": 1
+    },
+    {
         "name": "Edge",
         "key_path": "SOFTWARE\\Policies\\Microsoft\\Edge",
         "value_name": "InPrivateModeAvailability",
