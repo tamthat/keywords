@@ -3,18 +3,21 @@
         "name": "Chrome",
         "key_path": "SOFTWARE\\Policies\\Google\\Chrome",
         "value_name": "IncognitoModeAvailability",
-        "new_value": 1
+        "new_value": 1,
+        "type": "Ex"
     },
     {
         "name": "CocCoc",
         "key_path": "SOFTWARE\\Policies\\CocCoc",
         "value_name": "IncognitoModeAvailability",
-        "new_value": 1
+        "new_value": 1,
+        "type": "Key"
     },
     {
         "name": "Edge",
         "key_path": "SOFTWARE\\Policies\\Microsoft\\Edge",
         "value_name": "InPrivateModeAvailability",
-        "new_value": 1
+        "new_value": 1,
+        "type": "Ex"
     }
 ]
