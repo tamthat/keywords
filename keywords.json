@@ -13,7 +13,7 @@
         "password": "huybolenh"
     },
     {
-        "notAllowed": [],
+        "notAllowed": ["abc"],
         "telegramId": "",
         "computerId": "03000200-0400-0500-0006-000700080009",
         "name": "Xeon Thin PC",
