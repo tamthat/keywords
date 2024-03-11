@@ -7,6 +7,7 @@
     {
         "notAllowed": [],
         "telegramId": "",
-        "computerId": ""
+        "computerId": "",
+        "name": ""
     }
 ]
