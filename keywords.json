@@ -5,7 +5,7 @@
         "comuterId": ""
     },
     "MitComputer": {
-        "notAllowed": ["sex", "nude", "porn"],
+        "notAllowed": [],
         "telegramId": "",
         "comuterId": ""
     }
