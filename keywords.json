@@ -1,12 +1,8 @@
-{
-    "general": {
+[
+    {"general": ["sex", "nude", "porn"]},
+    {
         "notAllowed": ["sex", "nude", "porn"],
         "telegramId": "",
         "comuterId": ""
-    },
-    "MitComputer": {
-        "notAllowed": [],
-        "telegramId": "",
-        "comuterId": ""
     }
-}
+]
