@@ -1,7 +1,7 @@
 [
-    {"general": ["sex", "nude", "porn"]},
+    {"general": ["sex", "nude", "porn", "bạo lực", "đẫm máu", "tránh thai", "trộm"]},
     {
-        "notAllowed": ["sex", "nude", "porn"],
+        "notAllowed": [],
         "telegramId": "",
         "computerId": ""
     }
