@@ -8,7 +8,7 @@
         "giảm cân", "nhịn ăn", "kích thích", "thuốc", "đam mỹ", "ngôn tình", "bao cao su", "ba con sói"
     ]},
     {
-        "notAllowed": [],
+        "notAllowed": ["youtube"],
         "telegramId": "",
         "computerId": "4C4C4544-0048-5610-805A-C7C04F585932",
         "name": "DeLL",
