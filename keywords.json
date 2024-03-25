@@ -14,7 +14,9 @@
         "computerId": "4C4C4544-0048-5610-805A-C7C04F585932",
         "name": "DeLL",
         "prevent": [0, 1, 2, 3, 4, 23],
-        "password": "huybolenh"
+        "password": "huybolenh",
+        "prevent_urls": ["youtube.com", "facebook.com", "tiktok.com", "instagram.com"],
+        "prevent_url_time": [19, 20, 21, 22, 23]
     },
     {
         "notAllowed": [],
@@ -22,6 +24,8 @@
         "computerId": "03000200-0400-0500-0006-000700080009",
         "name": "Xeon Thin PC",
         "prevent": [],
-        "password": "huybolenh"
+        "password": "huybolenh",
+        "prevent_urls": ["youtube.com", "facebook.com", "tiktok.com", "instagram.com"],
+        "prevent_url_time": [19, 20, 21, 22, 23]
     }
 ]
