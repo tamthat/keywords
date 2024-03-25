@@ -28,6 +28,6 @@
         "password": "huybolenh",
         "prevent_urls": ["youtube.com", "facebook.com", "tiktok.com", "instagram.com"],
         "prevent_url_time": [17, 19, 20, 21, 22, 23],
-        "internet_level": 10
+        "internet_level": 1
     }
 ]
