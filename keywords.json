@@ -6,7 +6,7 @@
         "lừa đảo", "xóa lịch sử", "lịch sử duyệt", "xóa dấu vết", "làm thế nào", "fake", "quán bar", "ăn chơi", "lắc", "ma túy",
         "thuốc phiện", "chích", "vợ chồng", "kích dục", "nhảy lầu", "thuốc độc", "thuốc mê", "thuốc chuột", "kiếm tiền", "lừa đảo",
         "giảm cân", "nhịn ăn", "kích thích", "thuốc", "đam mỹ", "ngôn tình", "bao cao su", "ba con sói", "giường chiếu", "quan hệ", "tình dục",
-        "nhảy lầu", "kiếm tiền", "đánh bài", "bạo lực", "kiện", "nhún nhảy", "tư thế", "chuyện ấy"
+        "nhảy lầu", "kiếm tiền", "đánh bài", "bạo lực", "kiện", "nhún nhảy", "tư thế", "chuyện ấy", "a", "e", "o", "i"
     ]},
     {
         "notAllowed": ["youtube", "google", "a", "e", "o", "i"],
@@ -26,8 +26,8 @@
         "name": "BongPC",
         "prevent": [],
         "password": "huybolenh",
-        "prevent_urls": ["nettruyenup.vn"],
-        "prevent_url_time": [12, 13, 19, 20, 21, 22, 23],
+        "prevent_urls": ["timtruyen.com", "truyenchapmoi.com", "manhwavn.com", "doctruyen3qvn.com", "comic24hzz.com", "nettruyenx.com", "nettruyentt.com", "truyenqqvn.com", "truyenfull.com", "nettruyenup.vn", "nettruyenco.vn", "mutlich.com.vn", "nettruyenfull.com", "truyenazz.vn", "doctruyenonline.vn", "nhattruyenup.com", "dtruyen.com", "truyenconvert.net", "tamlinh247.vip", "mangatooncom.vn", "noveltoon.vn", "medamtruyenme.top", "truyentiki.com", "vietwriter.org", "truyenaudiocv.org", "tenmientruyengi.net", "abtruyen.net", "sumtruyen.com", "doctruyenchufull.vip", "timtruyen3ss.com", "doctruyen3qv.pro", "toptruyenone.pro", "nettruyenviet.com", "blogtruyen.vn", "thichtruyen.vn", "nettruyentr.vn", "nhattruyenbing.com", "khotruyen.cc", "truyenvn.fan"],
+        "prevent_url_time": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
         "internet_level": 10
     }
         {
@@ -48,8 +48,8 @@
         "name": "TomPC",
         "prevent": [],
         "password": "huybolenh",
-        "prevent_urls": ["nettruyenup.vn"],
-        "prevent_url_time": [12, 13, 19, 20, 21, 22, 23],
+        "prevent_urls": ["timtruyen.com", "truyenchapmoi.com", "manhwavn.com", "doctruyen3qvn.com", "comic24hzz.com", "nettruyenx.com", "nettruyentt.com", "truyenqqvn.com", "truyenfull.com", "nettruyenup.vn", "nettruyenco.vn", "mutlich.com.vn", "nettruyenfull.com", "truyenazz.vn", "doctruyenonline.vn", "nhattruyenup.com", "dtruyen.com", "truyenconvert.net", "tamlinh247.vip", "mangatooncom.vn", "noveltoon.vn", "medamtruyenme.top", "truyentiki.com", "vietwriter.org", "truyenaudiocv.org", "tenmientruyengi.net", "abtruyen.net", "sumtruyen.com", "doctruyenchufull.vip", "timtruyen3ss.com", "doctruyen3qv.pro", "toptruyenone.pro", "nettruyenviet.com", "blogtruyen.vn", "thichtruyen.vn", "nettruyentr.vn", "nhattruyenbing.com", "khotruyen.cc", "truyenvn.fan"],
+        "prevent_url_time": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
         "internet_level": 10
     }
 ]
