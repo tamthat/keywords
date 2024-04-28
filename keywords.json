@@ -20,7 +20,7 @@
         "internet_level": 10
     },
     {
-        "notAllowed": [],
+        "notAllowed": ["youtube", "google", "a", "e", "o", "i"],
         "telegramId": "",
         "computerId": "DFDC8DA2-71EE-4133-80E6-653A6B9097F8",
         "name": "BongPC",
@@ -42,7 +42,7 @@
         "internet_level": 10
     }
         {
-        "notAllowed": [],
+        "notAllowed": ["youtube", "google", "a", "e", "o", "i"],
         "telegramId": "",
         "computerId": "F75F36D7-D5DE-418D-A6FD-28F604D17D5E",
         "name": "TomPC",
